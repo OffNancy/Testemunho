@@ -1,0 +1,62 @@
+body{
+    background-color: rgb(167, 123, 123);
+}
+header{
+
+    height: 14rem;
+ background-image: linear-gradient(red , pink ,grey );
+ background-repeat: no-repeat;
+ background-position:center;
+ background-size: 100%;
+ 
+}
+img:hover{
+
+
+    width:17rem ;
+    height: 17rem;
+    
+}
+
+
+
+img{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 3rem; 
+    border: solid 2px gray;
+
+    
+}
+p{
+    font-size: 1.2rem;
+    margin-left: 20px;
+    
+    align-items: center;
+}
+.subtitulo{
+    margin-left: 20px;
+    color: white;
+
+    color: rgba(110, 28, 28, 0.932);
+   
+    
+    
+}
+.subtitulos{
+ margin-left: 20px;
+    color: rgba(110, 28, 28, 0.932);
+   
+
+}
+h1{
+
+    padding: 5px;
+    border-radius: 5%;
+    color: rgba(110, 28, 28, 0.932);
+    position: absolute;
+    bottom: 31rem;
+    left: 22rem;
+    font-family:fantasy;
+    
+    }
